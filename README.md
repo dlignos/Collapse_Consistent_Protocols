@@ -1,5 +1,5 @@
 # Collapse_Consistent_Protocols
-This Matlab code implements the developed collapse-consistent protocols for experimental testing of steel columns under cyclic loading. The Figure.jpg file shall be in the same folder with the Collapse_protocol_Final.m file that essentially produces the loading protocol for the steel column of interest. 
+This Matlab code implements the developed collapse-consistent protocols for experimental testing of steel columns under cyclic loading. The Figure.jpg file shall be in the same folder with the Collapse_protocol_V2.m file that essentially produces the loading protocol for the steel column of interest. 
 
 The protocols are developed based on work done by Suzuki and Lignos (2018). The following two references may be used if the developed code is employed:
 
